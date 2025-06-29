@@ -1,6 +1,9 @@
 # Netflix UI Clone
 This project is a simple and responsive clone of the Netflix homepage built using only HTML and CSS. It is designed for learning purposes and mimics the visual layout of the official Netflix landing page.
 
+## Preview:
+---> https://netflix-ui-clone-nirav-uparas-projects.vercel.app/
+
 ### Features:
 Clean and modern layout
 
