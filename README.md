@@ -32,7 +32,7 @@ Netflix-UI-Clone/
 ### How to Use:
 Clone this repository:
 
-git clone https://github.com/yourusername/netflix-ui-clone.git
+git clone https://github.com/NiravUpara/netflix-ui-clone.git
 
 Open index.html in any modern browser
 
